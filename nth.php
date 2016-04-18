@@ -1,6 +1,6 @@
 <?php
 
-//Solution to the "N'th" tas on rosetta code
+//Solution to the "N'th" task on rosetta code
 //http://rosettacode.org/wiki/N%27th#PHP
 
 function nth($num) {
